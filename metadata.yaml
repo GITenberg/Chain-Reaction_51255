@@ -1,0 +1,29 @@
+_repo: Chain-Reaction_51255
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doktor
+    gutenberg_agent_id: '45516'
+    url: http://www.gutenberg.org/2009/agents/45516
+creator:
+  author:
+    agent_name: Ellanby, Boyd
+    gutenberg_agent_id: '35725'
+    url: http://www.gutenberg.org/2009/agents/35725
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Chain Reaction
+url: http://www.gutenberg.org/ebooks/51255
